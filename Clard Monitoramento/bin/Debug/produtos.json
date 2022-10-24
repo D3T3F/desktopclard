@@ -1,0 +1,10 @@
+[
+{"id":5,"nome_produto":"Camisa Lilas","descricao":"uma bela camisa rosa tamanho M!","valor":37.0,"estoque":56,"imagem":null,"status":"excluido"},
+{"id":3,"nome_produto":"Camisa Amarela","descricao":"uma bela camisa rosa tamanho M!","valor":37.0,"estoque":56,"imagem":null,"status":"excluido"},
+{"id":1,"nome_produto":"Camisa Rosada","descricao":"uma bela camisa rosa tamanho M!","valor":37.0,"estoque":55,"imagem":null,"status":"ativo"},
+{"id":7,"nome_produto":"Bananao","descricao":"bananão bonito","valor":1500.0,"estoque":12,"imagem":null,"status":"excluido"},
+{"id":6,"nome_produto":"Camisa Roxa","descricao":"uma bela camisa roxa feita com la da ovelha do himalaia, Tamanho G","valor":1000.0,"estoque":20,"imagem":null,"status":"excluido"},
+{"id":2,"nome_produto":"Camisa Azul","descricao":"uma bela camisa rosa tamanho M!","valor":37.0,"estoque":55,"imagem":null,"status":"ativo"},
+{"id":4,"nome_produto":"Camisa Verde","descricao":"uma bela camisa rosa tamanho M!","valor":37.0,"estoque":0,"imagem":null,"status":"ativo"},
+{"id":8,"nome_produto":"Banana Amarela","descricao":"banana nanica bonita gostosa","valor":10.0,"estoque":1,"imagem":null,"status":"ativo"}
+]

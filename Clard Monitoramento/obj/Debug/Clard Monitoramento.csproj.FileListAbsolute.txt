@@ -1,0 +1,683 @@
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\dtfhj\source\repos\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Clard Monitoramento V1\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\dtfhj\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtfhj\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\Desktop\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento V2\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\dtfhj\Desktop\Clard\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\k1wyl\Desktop\Mod11 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\k1wyl\Desktop\Mod12 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\k1wyl\Desktop\Mod13 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod14 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod15 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod16 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod17 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod18 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Geometry.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Geometry.Text.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Geometry.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod19\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.config
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Clard Monitoramento.pdb
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Guna.UI2.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Geometry.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\RestSharp.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.pdb
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\Sigil.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Geometry.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Helpers.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.Razor.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Form1.resources
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.SplashScreen.resources
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard_Monitoramento.Properties.Resources.resources
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.csproj.CopyComplete
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
+C:\Users\aluno\Desktop\Mod20 - Clard Monitoramento\Clard Monitoramento\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
