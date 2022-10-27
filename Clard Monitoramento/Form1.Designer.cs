@@ -42,11 +42,11 @@ namespace Clard_Monitoramento
             this.tabelaVenda = new Guna.UI2.WinForms.Guna2DataGridView();
             this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.fecharTab1 = new Guna.UI2.WinForms.Guna2Button();
-            this.gerar1 = new Guna.UI2.WinForms.Guna2Button();
+            this.gerarVendas = new Guna.UI2.WinForms.Guna2Button();
             this.paginaProdutos = new System.Windows.Forms.TabPage();
             this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.fecharTab2 = new Guna.UI2.WinForms.Guna2Button();
-            this.gerarProd = new Guna.UI2.WinForms.Guna2Button();
+            this.gerarProdutos = new Guna.UI2.WinForms.Guna2Button();
             this.tabelaProd = new Guna.UI2.WinForms.Guna2DataGridView();
             this.paginaCadastro = new System.Windows.Forms.TabPage();
             this.comboCategoria = new System.Windows.Forms.ComboBox();
@@ -65,6 +65,8 @@ namespace Clard_Monitoramento
             this.btnAddImg = new Guna.UI2.WinForms.Guna2TileButton();
             this.pictureBox = new Guna.UI2.WinForms.Guna2PictureBox();
             this.paginaAlterar = new System.Windows.Forms.TabPage();
+            this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
+            this.comboCategoriaAlt = new System.Windows.Forms.ComboBox();
             this.comboBoxAlt = new System.Windows.Forms.ComboBox();
             this.txtQuantAlt = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtValorAlt = new Guna.UI2.WinForms.Guna2TextBox();
@@ -77,8 +79,6 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel10 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.comboCategoriaAlt = new System.Windows.Forms.ComboBox();
-            this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
             this.guna2TabControl1.SuspendLayout();
             this.paginaVendas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tabelaVenda)).BeginInit();
@@ -130,7 +130,7 @@ namespace Clard_Monitoramento
             this.paginaVendas.Controls.Add(this.tabelaVenda);
             this.paginaVendas.Controls.Add(this.guna2HtmlLabel1);
             this.paginaVendas.Controls.Add(this.fecharTab1);
-            this.paginaVendas.Controls.Add(this.gerar1);
+            this.paginaVendas.Controls.Add(this.gerarVendas);
             this.paginaVendas.Location = new System.Drawing.Point(184, 4);
             this.paginaVendas.Name = "paginaVendas";
             this.paginaVendas.Padding = new System.Windows.Forms.Padding(3);
@@ -231,29 +231,29 @@ namespace Clard_Monitoramento
             this.fecharTab1.Text = "Fechar Tabela";
             this.fecharTab1.Click += new System.EventHandler(this.fecharTab1_Click);
             // 
-            // gerar1
+            // gerarVendas
             // 
-            this.gerar1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.gerar1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.gerar1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.gerar1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.gerar1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.gerar1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.gerar1.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.gerar1.ForeColor = System.Drawing.Color.White;
-            this.gerar1.Location = new System.Drawing.Point(762, 24);
-            this.gerar1.Name = "gerar1";
-            this.gerar1.Size = new System.Drawing.Size(134, 35);
-            this.gerar1.TabIndex = 0;
-            this.gerar1.Text = "Gerar Tabela";
-            this.gerar1.Click += new System.EventHandler(this.gerar1_Click);
+            this.gerarVendas.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.gerarVendas.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.gerarVendas.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.gerarVendas.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.gerarVendas.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.gerarVendas.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.gerarVendas.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.gerarVendas.ForeColor = System.Drawing.Color.White;
+            this.gerarVendas.Location = new System.Drawing.Point(762, 24);
+            this.gerarVendas.Name = "gerarVendas";
+            this.gerarVendas.Size = new System.Drawing.Size(134, 35);
+            this.gerarVendas.TabIndex = 0;
+            this.gerarVendas.Text = "Gerar Tabela";
+            this.gerarVendas.Click += new System.EventHandler(this.gerarVendas_Click);
             // 
             // paginaProdutos
             // 
             this.paginaProdutos.BackColor = System.Drawing.Color.WhiteSmoke;
             this.paginaProdutos.Controls.Add(this.guna2HtmlLabel2);
             this.paginaProdutos.Controls.Add(this.fecharTab2);
-            this.paginaProdutos.Controls.Add(this.gerarProd);
+            this.paginaProdutos.Controls.Add(this.gerarProdutos);
             this.paginaProdutos.Controls.Add(this.tabelaProd);
             this.paginaProdutos.Location = new System.Drawing.Point(184, 4);
             this.paginaProdutos.Name = "paginaProdutos";
@@ -290,22 +290,22 @@ namespace Clard_Monitoramento
             this.fecharTab2.Text = "Fechar Tabela";
             this.fecharTab2.Click += new System.EventHandler(this.fecharTab2_Click);
             // 
-            // gerarProd
+            // gerarProdutos
             // 
-            this.gerarProd.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.gerarProd.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.gerarProd.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.gerarProd.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.gerarProd.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.gerarProd.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
-            this.gerarProd.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.gerarProd.ForeColor = System.Drawing.Color.White;
-            this.gerarProd.Location = new System.Drawing.Point(762, 24);
-            this.gerarProd.Name = "gerarProd";
-            this.gerarProd.Size = new System.Drawing.Size(134, 35);
-            this.gerarProd.TabIndex = 3;
-            this.gerarProd.Text = "Gerar Tabela";
-            this.gerarProd.Click += new System.EventHandler(this.gerar2_Click);
+            this.gerarProdutos.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.gerarProdutos.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.gerarProdutos.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.gerarProdutos.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.gerarProdutos.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.gerarProdutos.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
+            this.gerarProdutos.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.gerarProdutos.ForeColor = System.Drawing.Color.White;
+            this.gerarProdutos.Location = new System.Drawing.Point(762, 24);
+            this.gerarProdutos.Name = "gerarProdutos";
+            this.gerarProdutos.Size = new System.Drawing.Size(134, 35);
+            this.gerarProdutos.TabIndex = 3;
+            this.gerarProdutos.Text = "Gerar Tabela";
+            this.gerarProdutos.Click += new System.EventHandler(this.gerarProdutos_Click);
             // 
             // tabelaProd
             // 
@@ -717,6 +717,50 @@ namespace Clard_Monitoramento
             this.paginaAlterar.TabIndex = 6;
             this.paginaAlterar.Text = "ALTERAR PRODUTO";
             // 
+            // guna2TextBox2
+            // 
+            this.guna2TextBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.guna2TextBox2.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.guna2TextBox2.DefaultText = "";
+            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
+            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
+            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
+            this.guna2TextBox2.FillColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2TextBox2.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2TextBox2.ForeColor = System.Drawing.Color.Black;
+            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.WhiteSmoke;
+            this.guna2TextBox2.Location = new System.Drawing.Point(264, 428);
+            this.guna2TextBox2.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
+            this.guna2TextBox2.Name = "guna2TextBox2";
+            this.guna2TextBox2.PasswordChar = '\0';
+            this.guna2TextBox2.PlaceholderForeColor = System.Drawing.Color.Black;
+            this.guna2TextBox2.PlaceholderText = "Categoria";
+            this.guna2TextBox2.SelectedText = "";
+            this.guna2TextBox2.Size = new System.Drawing.Size(531, 41);
+            this.guna2TextBox2.TabIndex = 36;
+            // 
+            // comboCategoriaAlt
+            // 
+            this.comboCategoriaAlt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.comboCategoriaAlt.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.comboCategoriaAlt.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboCategoriaAlt.Font = new System.Drawing.Font("Arial", 11F);
+            this.comboCategoriaAlt.FormattingEnabled = true;
+            this.comboCategoriaAlt.Items.AddRange(new object[] {
+            "Calças",
+            "Camisas",
+            "Moletons",
+            "Meias",
+            "Vestidos",
+            "Outros"});
+            this.comboCategoriaAlt.Location = new System.Drawing.Point(264, 471);
+            this.comboCategoriaAlt.Name = "comboCategoriaAlt";
+            this.comboCategoriaAlt.Size = new System.Drawing.Size(531, 25);
+            this.comboCategoriaAlt.TabIndex = 35;
+            // 
             // comboBoxAlt
             // 
             this.comboBoxAlt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -923,50 +967,6 @@ namespace Clard_Monitoramento
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
-            // comboCategoriaAlt
-            // 
-            this.comboCategoriaAlt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.comboCategoriaAlt.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.comboCategoriaAlt.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboCategoriaAlt.Font = new System.Drawing.Font("Arial", 11F);
-            this.comboCategoriaAlt.FormattingEnabled = true;
-            this.comboCategoriaAlt.Items.AddRange(new object[] {
-            "Calças",
-            "Camisas",
-            "Moletons",
-            "Meias",
-            "Vestidos",
-            "Outros"});
-            this.comboCategoriaAlt.Location = new System.Drawing.Point(264, 471);
-            this.comboCategoriaAlt.Name = "comboCategoriaAlt";
-            this.comboCategoriaAlt.Size = new System.Drawing.Size(531, 25);
-            this.comboCategoriaAlt.TabIndex = 35;
-            // 
-            // guna2TextBox2
-            // 
-            this.guna2TextBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2TextBox2.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox2.DefaultText = "";
-            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.Font = new System.Drawing.Font("Arial", 15F);
-            this.guna2TextBox2.ForeColor = System.Drawing.Color.Black;
-            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.Location = new System.Drawing.Point(264, 428);
-            this.guna2TextBox2.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
-            this.guna2TextBox2.Name = "guna2TextBox2";
-            this.guna2TextBox2.PasswordChar = '\0';
-            this.guna2TextBox2.PlaceholderForeColor = System.Drawing.Color.Black;
-            this.guna2TextBox2.PlaceholderText = "Categoria";
-            this.guna2TextBox2.SelectedText = "";
-            this.guna2TextBox2.Size = new System.Drawing.Size(531, 41);
-            this.guna2TextBox2.TabIndex = 36;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 14F);
@@ -1007,8 +1007,8 @@ namespace Clard_Monitoramento
         private System.Windows.Forms.TabPage paginaVendas;
         private System.Windows.Forms.TabPage paginaProdutos;
         private System.Windows.Forms.TabPage paginaCadastro;
-        private Guna.UI2.WinForms.Guna2Button gerar1;
-        private Guna.UI2.WinForms.Guna2Button gerarProd;
+        private Guna.UI2.WinForms.Guna2Button gerarVendas;
+        private Guna.UI2.WinForms.Guna2Button gerarProdutos;
         private Guna.UI2.WinForms.Guna2DataGridView tabelaProd;
         private Guna.UI2.WinForms.Guna2Button fecharTab1;
         private Guna.UI2.WinForms.Guna2Button fecharTab2;

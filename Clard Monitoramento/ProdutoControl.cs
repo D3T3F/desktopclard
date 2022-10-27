@@ -5,9 +5,6 @@ using RestSharp;
 
 namespace Clard_Monitoramento
 {
-
-    
-
     internal class ProdutoControl
     {
         private string api_ip = "http://clard.ddns.net:9001/api/product/";
@@ -15,7 +12,15 @@ namespace Clard_Monitoramento
 
         public ProdutoControl()
         {
+            //Instanciação da lista de produtos
             _produtos = new List<Produto>();
+        }
+
+        //Função de POST na API 
+        private void PostLista(RestClient client, RestRequest request)
+        {
+            var response = client.PostAsync(request).Result;
+            Console.WriteLine(response.StatusCode.ToString() + " " + response.Content.ToString());
         }
 
         public void cadastrar(string nome_produto, double valor, string descricao, int estoque, string categoria, string path)
@@ -25,45 +30,33 @@ namespace Clard_Monitoramento
 
             var body = new Produto
             {
-                nome_produto = nome_produto
-                                        ,
-                descricao = descricao
-                                        ,
-                estoque = estoque
-                                        ,
-                valor = valor           
-                                        ,
+                nome_produto = nome_produto,
+                descricao = descricao,
+                estoque = estoque,
+                valor = valor,
                 categoria = categoria
             };
 
-
             request1.AddJsonBody(body);
 
-            var response1 = client1.PostAsync(request1).Result;
-            Console.WriteLine(response1.StatusCode.ToString() + " " + response1.Content.ToString());
+            PostLista(client1, request1);
 
             gerarLista();
 
+            //Verifica id do ultimo produto existente para fazer o POST da imagem com seu id
             var idproduto = 0;
-
-            foreach (Produto p in _produtos) { 
-            
+            foreach (Produto p in _produtos) {        
                 if(p.id > idproduto)
                 {
                     idproduto = p.id;
                 }
-
             }
-
-            Console.WriteLine(idproduto);
 
             var client = new RestClient(api_ip + "insertImg/" + idproduto);
             var request = new RestRequest();
             request.AddFile("image", path);
 
-
-            var response = client.PostAsync(request).Result;
-            Console.WriteLine(response.StatusCode.ToString() + " " + response.Content.ToString());
+            PostLista(client, request);
         }
 
         public void gerarLista()
@@ -87,12 +80,9 @@ namespace Clard_Monitoramento
                 idprodex = id
             };
 
-
             request.AddJsonBody(body);
 
-            var response = client.PostAsync(request).Result;
-            Console.WriteLine(response.StatusCode.ToString() + " " + response.Content.ToString());
-
+            PostLista(client, request);
         }
 
         public void alterar(int alt_id, string nome_prod, string alt_descricao, int alt_quantidade, double alt_valor, string path)
@@ -102,27 +92,16 @@ namespace Clard_Monitoramento
 
             var body = new altprod
             {
-                    alt_id = alt_id
-             ,      alt_nome_prod = nome_prod
-             ,      alt_descricao = alt_descricao
-             ,      alt_quantidade = alt_quantidade
-             ,      alt_valor = alt_valor
+                alt_id = alt_id,      
+                alt_nome_prod = nome_prod,
+                alt_descricao = alt_descricao,
+                alt_quantidade = alt_quantidade,
+                alt_valor = alt_valor
             };
-
 
             request.AddJsonBody(body);
 
-            var response = client.PostAsync(request).Result;
-            Console.WriteLine(response.StatusCode.ToString() + " " + response.Content.ToString());
-
-            var client1 = new RestClient(api_ip + "insertImg/" + alt_id);
-            var request1 = new RestRequest();
-            request.AddFile("image", path);
-
-
-            var response1 = client1.PostAsync(request1).Result;
-            Console.WriteLine(response1.StatusCode.ToString() + " " + response1.Content.ToString());
-
+            PostLista(client, request);
         }
 
         public void ativar(int id)
@@ -135,12 +114,9 @@ namespace Clard_Monitoramento
                 idprodex = id
             };
 
-
             request.AddJsonBody(body);
 
-            var response = client.PostAsync(request).Result;
-            Console.WriteLine(response.StatusCode.ToString() + " " + response.Content.ToString());
-
+            PostLista(client, request);
         }
     }
 }

@@ -246,7 +246,7 @@ namespace Clard_Monitoramento
             }
         }
 
-        private void gerar2_Click(object sender, EventArgs e)
+        private void gerarProdutos_Click(object sender, EventArgs e)
         {
             atlTblProd();
         }
@@ -491,7 +491,7 @@ namespace Clard_Monitoramento
             }
         }
 
-        private void gerar1_Click(object sender, EventArgs e)
+        private void gerarVendas_Click(object sender, EventArgs e)
         {
             atlTblVendas();
         }       
@@ -501,8 +501,6 @@ namespace Clard_Monitoramento
             tblVenda.Clear();
             tblVenda.Rows.Clear();
             vendaCont._vendas.Clear();
-        }
-
-       
+        } 
     }
 }
