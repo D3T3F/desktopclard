@@ -207,12 +207,12 @@ namespace Clard_Monitoramento
             // 
             this.guna2HtmlLabel1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(182, 20);
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Roboto Medium", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(253, 20);
             this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(401, 48);
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(340, 50);
             this.guna2HtmlLabel1.TabIndex = 3;
-            this.guna2HtmlLabel1.Text = "TABELA DE VENDAS";
+            this.guna2HtmlLabel1.Text = "Tabela de Vendas";
             // 
             // fecharTab1
             // 
@@ -266,12 +266,12 @@ namespace Clard_Monitoramento
             // 
             this.guna2HtmlLabel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2HtmlLabel2.Location = new System.Drawing.Point(182, 20);
+            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Roboto Medium", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.guna2HtmlLabel2.Location = new System.Drawing.Point(253, 20);
             this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(462, 48);
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(372, 50);
             this.guna2HtmlLabel2.TabIndex = 5;
-            this.guna2HtmlLabel2.Text = "TABELA DE PRODUTOS";
+            this.guna2HtmlLabel2.Text = "Tabela de Produtos";
             // 
             // fecharTab2
             // 
@@ -982,7 +982,7 @@ namespace Clard_Monitoramento
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CLARD | GERENCIADOR";
+            this.Text = "GERENCIAMENTO";
             this.guna2TabControl1.ResumeLayout(false);
             this.paginaVendas.ResumeLayout(false);
             this.paginaVendas.PerformLayout();

@@ -5,6 +5,7 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.IO;
 using Clard_Monitoramento.Vendas;
+using System.Diagnostics;
 
 namespace Clard_Monitoramento
 {
@@ -268,29 +269,13 @@ namespace Clard_Monitoramento
                 {
                     categoria = "calcas";
                 }
-                else if (comboCategoria.Text == "Camisas")
+                else if (comboCategoria.Text.Trim() == "")
                 {
-                    categoria = "camisas";
-                }
-                else if (comboCategoria.Text == "Moletons")
-                {
-                    categoria = "moletons";
-                }
-                else if (comboCategoria.Text == "Meias")
-                {
-                    categoria = "meias";
-                }
-                else if (comboCategoria.Text == "Vestidos")
-                {
-                    categoria = "vestidos";
-                }
-                else if (comboCategoria.Text == "Outros")
-                {
-                    categoria = "outros";
+                    categoria = "";
                 }
                 else
                 {
-                    categoria = "";
+                    categoria = comboCategoria.Text.ToLower();
                 }
             }
             catch (Exception ex) { }
