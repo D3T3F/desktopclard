@@ -760,6 +760,7 @@ namespace Clard_Monitoramento
             this.comboCategoriaAlt.Name = "comboCategoriaAlt";
             this.comboCategoriaAlt.Size = new System.Drawing.Size(531, 25);
             this.comboCategoriaAlt.TabIndex = 35;
+            this.comboCategoriaAlt.SelectedIndexChanged += new System.EventHandler(this.comboCategoriaAlt_SelectedIndexChanged);
             // 
             // comboBoxAlt
             // 

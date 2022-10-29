@@ -85,18 +85,19 @@ namespace Clard_Monitoramento
             PostLista(client, request);
         }
 
-        public void alterar(int alt_id, string nome_prod, string alt_descricao, int alt_quantidade, double alt_valor, string path)
+        public void alterar(int alt_id, string nome_prod, string alt_descricao, int alt_quantidade, double alt_valor, string alt_categoria,string path)
         {
             var client = new RestClient(api_ip + "altProd");
             var request = new RestRequest();
 
             var body = new altprod
             {
-                alt_id = alt_id,      
+                alt_id = alt_id,
                 alt_nome_prod = nome_prod,
                 alt_descricao = alt_descricao,
                 alt_quantidade = alt_quantidade,
-                alt_valor = alt_valor
+                alt_valor = alt_valor,
+                alt_categoria = alt_categoria
             };
 
             request.AddJsonBody(body);

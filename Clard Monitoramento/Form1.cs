@@ -45,6 +45,22 @@ namespace Clard_Monitoramento
 
         }
 
+        private void transformaCategoria(string nomeCombo)
+        {
+            if (nomeCombo == "Calças")
+            {
+                categoria = "calcas";
+            }
+            else if (nomeCombo.Trim() == "")
+            {
+                categoria = "";
+            }
+            else
+            {
+                categoria = nomeCombo.ToLower();
+            }
+        }
+
         //Configuração produtos
         private void atlTblProd()
         {   
@@ -263,22 +279,7 @@ namespace Clard_Monitoramento
 
         private void comboCategoria_SelectedIndexChanged(object sender, EventArgs e)
         {
-            try
-            {
-                if (comboCategoria.Text == "Calças")
-                {
-                    categoria = "calcas";
-                }
-                else if (comboCategoria.Text.Trim() == "")
-                {
-                    categoria = "";
-                }
-                else
-                {
-                    categoria = comboCategoria.Text.ToLower();
-                }
-            }
-            catch (Exception ex) { }
+            transformaCategoria(comboCategoria.Text);   
         }
 
         //Atualizar produtos
@@ -351,7 +352,7 @@ namespace Clard_Monitoramento
                         {
                             if (p.nome_produto.Equals(comboBoxAlt.Text))
                             {
-                                prodCont.alterar(id_produto_alt, txtNomeAlt.Text, txtDescAlt.Text, int.Parse(txtQuantAlt.Text), Double.Parse(txtValorAlt.Text), pathAlt);
+                                prodCont.alterar(id_produto_alt, txtNomeAlt.Text, txtDescAlt.Text, int.Parse(txtQuantAlt.Text), Double.Parse(txtValorAlt.Text), categoria,pathAlt);
                             }
                         }
 
@@ -401,6 +402,11 @@ namespace Clard_Monitoramento
             {
                 e.Handled = true;
             }
+        }
+
+        private void comboCategoriaAlt_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            transformaCategoria(comboCategoriaAlt.Text);
         }
 
         private void btnAtrExc_Click(object sender, EventArgs e)
@@ -486,6 +492,6 @@ namespace Clard_Monitoramento
             tblVenda.Clear();
             tblVenda.Rows.Clear();
             vendaCont._vendas.Clear();
-        } 
+        }
     }
 }

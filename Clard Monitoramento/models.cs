@@ -12,6 +12,7 @@
         public string  alt_descricao { get; set; }
         public int     alt_quantidade { get; set; }
         public double  alt_valor { get; set; }
+        public string  alt_categoria { get; set; }
     }
 
     class Produto
