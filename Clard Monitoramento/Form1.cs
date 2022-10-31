@@ -61,6 +61,26 @@ namespace Clard_Monitoramento
             }
         }
 
+        private void tabControl_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (tabControl.SelectedTab.Text == "VENDAS")
+            {
+                title.Text = "Tabela de Vendas";
+            }
+            else if (tabControl.SelectedTab.Text == "PRODUTOS CADASTRADOS")
+            {
+                title.Text = "Tabela de Produtos";
+            }
+            else if (tabControl.SelectedTab.Text == "CADASTRAR PRODUTO")
+            {
+                title.Text = "Cadastro de Produtos";
+            }
+            else if (tabControl.SelectedTab.Text == "ALTERAR PRODUTO")
+            {
+                title.Text = "Alteração de Produtos";
+            }
+        }
+
         //Configuração produtos
         private void atlTblProd()
         {   
@@ -96,7 +116,7 @@ namespace Clard_Monitoramento
 
         private void tabelaProd_DoubleClick(object sender, EventArgs e)
         {
-            guna2TabControl1.SelectTab(paginaAlterar);
+            tabControl.SelectTab(paginaAlterar);
             try
             {
                 comboBoxAlt.Text = tabelaProd.SelectedCells[0].Value.ToString();
