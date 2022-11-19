@@ -5,13 +5,11 @@ using System.Drawing;
 using System.Windows.Forms;
 using System.IO;
 using Clard_Monitoramento.Vendas;
-using System.Diagnostics;
 
 namespace Clard_Monitoramento
 {
     public partial class Form1 : Form
     {
-        private Image img;
         private ProdutoControl prodCont;
         private VendaControl vendaCont;
         private DataTable tblProd;
@@ -42,7 +40,6 @@ namespace Clard_Monitoramento
             tblVenda.Columns.Add("Forma Pagamento",typeof(string));
             tblVenda.Columns.Add("Valor",typeof(string));
             tblVenda.Columns.Add("Status",typeof(string));
-
         }
 
         private void transformaCategoria(string nomeCombo)
@@ -153,7 +150,7 @@ namespace Clard_Monitoramento
                      double imgAltura = i.PhysicalDimension.Width;
                      double imgLargura = i.PhysicalDimension.Height;
 
-                     if ((imgAltura > 1200 || imgLargura > 1200) || (imgAltura < 500 || imgLargura < 500))
+                     if (imgAltura > 1200 || imgLargura > 1200 || imgAltura < 500 || imgLargura < 500)
                      {
                         Exception exTam = new Exception("O tamanho da imagem deve estar entre 1200x1200 e 500x500");
                         throw exTam;
@@ -168,7 +165,6 @@ namespace Clard_Monitoramento
                      btnAddImg.Visible = false;
                      btnRemoveImg.Visible = true;
 
-                     img = i;
                  }
                  catch (Exception erro)
                  {
@@ -181,7 +177,6 @@ namespace Clard_Monitoramento
 
         private void limpaImagem()
         {
-            img = null;
             pictureBox.Image = null;
 
             btnAddImg.Visible = true;
@@ -315,8 +310,6 @@ namespace Clard_Monitoramento
 
             comboCategoriaAlt.SelectedItem = null;
             comboCategoriaAlt.Text = "";
-
-            img = null;
         }
 
         private void comboBoxAlt_SelectedIndexChanged(object sender, EventArgs e)
@@ -375,11 +368,10 @@ namespace Clard_Monitoramento
                                 prodCont.alterar(id_produto_alt, txtNomeAlt.Text, txtDescAlt.Text, int.Parse(txtQuantAlt.Text), Double.Parse(txtValorAlt.Text), categoria,pathAlt);
                             }
                         }
-
                     }
-                    catch (InvalidOperationException ex)
+                    catch(Exception ex)
                     {
-
+                        MessageBox.Show("Houve algum problema na alteração do produto: " + ex.Message);
                     }
                     finally
                     {
@@ -459,17 +451,16 @@ namespace Clard_Monitoramento
 
                     limpaFormularioAtl();
                     btnAtrExc.Text = "Excluir/Altivar";
-                }
-                catch (InvalidOperationException ex)
+                }          
+                catch (Exception ex)
                 {
-
+                    MessageBox.Show("Houve algum problema na exclusão/ativação do produto: " + ex.Message);
                 }
                 finally
                 {
                     atlTblProd();
                 }
             }
-
         }
 
         //Configuração vendas

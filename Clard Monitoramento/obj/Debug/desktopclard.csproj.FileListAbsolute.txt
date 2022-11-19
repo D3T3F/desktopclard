@@ -105,3 +105,7 @@ C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\obj\Debug\desktopclard.c
 C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\obj\Debug\desktopclard.csproj.CopyComplete
 C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe
 C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\obj\Debug\Clard Monitoramento.pdb
+C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\bin\Debug\Clard Monitoramento.exe.manifest
+C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\bin\Debug\Clard Monitoramento.application
+C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\obj\Debug\Clard Monitoramento.exe.manifest
+C:\Users\dtfhj\Desktop\desktopclard\Clard Monitoramento\obj\Debug\Clard Monitoramento.application

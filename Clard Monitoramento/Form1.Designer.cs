@@ -48,7 +48,6 @@ namespace Clard_Monitoramento
             this.tabelaProd = new Guna.UI2.WinForms.Guna2DataGridView();
             this.paginaCadastro = new System.Windows.Forms.TabPage();
             this.comboCategoria = new System.Windows.Forms.ComboBox();
-            this.guna2TextBox1 = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtBoxQuant = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtBoxValor = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtBoxNome = new Guna.UI2.WinForms.Guna2TextBox();
@@ -63,7 +62,6 @@ namespace Clard_Monitoramento
             this.btnAddImg = new Guna.UI2.WinForms.Guna2TileButton();
             this.pictureBox = new Guna.UI2.WinForms.Guna2PictureBox();
             this.paginaAlterar = new System.Windows.Forms.TabPage();
-            this.guna2TextBox2 = new Guna.UI2.WinForms.Guna2TextBox();
             this.comboCategoriaAlt = new System.Windows.Forms.ComboBox();
             this.comboBoxAlt = new System.Windows.Forms.ComboBox();
             this.txtQuantAlt = new Guna.UI2.WinForms.Guna2TextBox();
@@ -78,6 +76,8 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.title = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
+            this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.tabControl.SuspendLayout();
             this.paginaVendas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tabelaVenda)).BeginInit();
@@ -359,8 +359,8 @@ namespace Clard_Monitoramento
             // paginaCadastro
             // 
             this.paginaCadastro.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.paginaCadastro.Controls.Add(this.guna2HtmlLabel2);
             this.paginaCadastro.Controls.Add(this.comboCategoria);
-            this.paginaCadastro.Controls.Add(this.guna2TextBox1);
             this.paginaCadastro.Controls.Add(this.txtBoxQuant);
             this.paginaCadastro.Controls.Add(this.txtBoxValor);
             this.paginaCadastro.Controls.Add(this.txtBoxNome);
@@ -400,31 +400,6 @@ namespace Clard_Monitoramento
             this.comboCategoria.Size = new System.Drawing.Size(531, 25);
             this.comboCategoria.TabIndex = 34;
             this.comboCategoria.SelectedIndexChanged += new System.EventHandler(this.comboCategoria_SelectedIndexChanged);
-            // 
-            // guna2TextBox1
-            // 
-            this.guna2TextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.guna2TextBox1.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox1.DefaultText = "";
-            this.guna2TextBox1.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox1.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox1.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox1.FocusedState.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox1.Font = new System.Drawing.Font("Arial", 15F);
-            this.guna2TextBox1.ForeColor = System.Drawing.Color.Black;
-            this.guna2TextBox1.HoverState.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox1.Location = new System.Drawing.Point(479, 409);
-            this.guna2TextBox1.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
-            this.guna2TextBox1.Name = "guna2TextBox1";
-            this.guna2TextBox1.PasswordChar = '\0';
-            this.guna2TextBox1.PlaceholderForeColor = System.Drawing.Color.Black;
-            this.guna2TextBox1.PlaceholderText = "Categoria";
-            this.guna2TextBox1.SelectedText = "";
-            this.guna2TextBox1.Size = new System.Drawing.Size(531, 41);
-            this.guna2TextBox1.TabIndex = 20;
             // 
             // txtBoxQuant
             // 
@@ -582,6 +557,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2HtmlLabel5.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel5.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel5.IsSelectionEnabled = false;
             this.guna2HtmlLabel5.Location = new System.Drawing.Point(479, 181);
             this.guna2HtmlLabel5.Name = "guna2HtmlLabel5";
             this.guna2HtmlLabel5.Size = new System.Drawing.Size(91, 25);
@@ -671,7 +647,7 @@ namespace Clard_Monitoramento
             // paginaAlterar
             // 
             this.paginaAlterar.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.paginaAlterar.Controls.Add(this.guna2TextBox2);
+            this.paginaAlterar.Controls.Add(this.guna2HtmlLabel1);
             this.paginaAlterar.Controls.Add(this.comboCategoriaAlt);
             this.paginaAlterar.Controls.Add(this.comboBoxAlt);
             this.paginaAlterar.Controls.Add(this.txtQuantAlt);
@@ -690,31 +666,6 @@ namespace Clard_Monitoramento
             this.paginaAlterar.Size = new System.Drawing.Size(1076, 592);
             this.paginaAlterar.TabIndex = 6;
             this.paginaAlterar.Text = "ALTERAR PRODUTO";
-            // 
-            // guna2TextBox2
-            // 
-            this.guna2TextBox2.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2TextBox2.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.guna2TextBox2.DefaultText = "";
-            this.guna2TextBox2.DisabledState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(208)))), ((int)(((byte)(208)))));
-            this.guna2TextBox2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(226)))), ((int)(((byte)(226)))), ((int)(((byte)(226)))));
-            this.guna2TextBox2.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.DisabledState.PlaceholderForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(138)))), ((int)(((byte)(138)))), ((int)(((byte)(138)))));
-            this.guna2TextBox2.FillColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.FocusedState.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.Font = new System.Drawing.Font("Arial", 15F);
-            this.guna2TextBox2.ForeColor = System.Drawing.Color.Black;
-            this.guna2TextBox2.HoverState.BorderColor = System.Drawing.Color.WhiteSmoke;
-            this.guna2TextBox2.Location = new System.Drawing.Point(287, 425);
-            this.guna2TextBox2.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
-            this.guna2TextBox2.Name = "guna2TextBox2";
-            this.guna2TextBox2.PasswordChar = '\0';
-            this.guna2TextBox2.PlaceholderForeColor = System.Drawing.Color.Black;
-            this.guna2TextBox2.PlaceholderText = "Categoria";
-            this.guna2TextBox2.SelectedText = "";
-            this.guna2TextBox2.Size = new System.Drawing.Size(531, 41);
-            this.guna2TextBox2.TabIndex = 36;
             // 
             // comboCategoriaAlt
             // 
@@ -904,6 +855,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel9.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.guna2HtmlLabel9.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel9.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel9.IsSelectionEnabled = false;
             this.guna2HtmlLabel9.Location = new System.Drawing.Point(287, 208);
             this.guna2HtmlLabel9.Name = "guna2HtmlLabel9";
             this.guna2HtmlLabel9.Size = new System.Drawing.Size(91, 25);
@@ -937,6 +889,7 @@ namespace Clard_Monitoramento
             this.title.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.title.BackColor = System.Drawing.Color.Transparent;
             this.title.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.title.IsSelectionEnabled = false;
             this.title.Location = new System.Drawing.Point(520, 12);
             this.title.Name = "title";
             this.title.Size = new System.Drawing.Size(341, 48);
@@ -954,6 +907,30 @@ namespace Clard_Monitoramento
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
+            // 
+            // guna2HtmlLabel1
+            // 
+            this.guna2HtmlLabel1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel1.IsSelectionEnabled = false;
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(300, 437);
+            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(89, 25);
+            this.guna2HtmlLabel1.TabIndex = 36;
+            this.guna2HtmlLabel1.Text = "Categoria";
+            // 
+            // guna2HtmlLabel2
+            // 
+            this.guna2HtmlLabel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel2.IsSelectionEnabled = false;
+            this.guna2HtmlLabel2.Location = new System.Drawing.Point(492, 428);
+            this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(89, 25);
+            this.guna2HtmlLabel2.TabIndex = 37;
+            this.guna2HtmlLabel2.Text = "Categoria";
             // 
             // Form1
             // 
@@ -1028,9 +1005,9 @@ namespace Clard_Monitoramento
         private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel11;
         private System.Windows.Forms.ComboBox comboBoxAlt;
         private System.Windows.Forms.ComboBox comboCategoria;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox1;
-        private Guna.UI2.WinForms.Guna2TextBox guna2TextBox2;
         private System.Windows.Forms.ComboBox comboCategoriaAlt;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel2;
+        private Guna.UI2.WinForms.Guna2HtmlLabel guna2HtmlLabel1;
     }
 }
 
