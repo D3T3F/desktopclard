@@ -189,6 +189,8 @@ namespace Clard_Monitoramento
             txtBoxValor.Text = "";
             txtBoxQuant.Text = "";
             txtBoxDesc.Text = "";
+            comboCategoria.Text = "";
+            comboCategoria.SelectedItem = null;
 
             limpaImagem();
         }
@@ -269,6 +271,10 @@ namespace Clard_Monitoramento
                         atlTblProd();
 
                     }
+                    catch(AggregateException ae)
+                    {
+                        MessageBox.Show("O número de caracteres inseridos ultrapassa o limite permitido, tente escrever algo menor.", "Texto muito longo!");
+                    }
                     catch (Exception ex)
                     {
                         MessageBox.Show(ex.ToString());
@@ -325,7 +331,9 @@ namespace Clard_Monitoramento
                     txtDescAlt.Text = prod.descricao;
                     txtQuantAlt.Text = prod.estoque.ToString();
                     id_produto_alt = prod.id;
-                    comboCategoriaAlt.Text = prod.categoria;
+
+                    if(prod.categoria == "calcas") comboCategoriaAlt.Text = "Calças";         
+                    else comboCategoriaAlt.Text = prod.categoria;
 
                     if (prod.status == "ativo")
                     {
@@ -368,18 +376,20 @@ namespace Clard_Monitoramento
                                 prodCont.alterar(id_produto_alt, txtNomeAlt.Text, txtDescAlt.Text, int.Parse(txtQuantAlt.Text), Double.Parse(txtValorAlt.Text), categoria,pathAlt);
                             }
                         }
-                    }
-                    catch(Exception ex)
-                    {
-                        MessageBox.Show("Houve algum problema na alteração do produto: " + ex.Message);
-                    }
-                    finally
-                    {
+
                         MessageBox.Show("Produto alterado com sucesso!");
 
                         atlTblProd();
 
                         limpaFormularioAtl();
+                    }
+                    catch (AggregateException ae)
+                    {
+                        MessageBox.Show("O número de caracteres inseridos ultrapassa o limite permitido, tente escrever algo menor.", "Texto muito longo!");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Houve algum problema na alteração do produto: " + ex.Message);
                     }
                 }
             }

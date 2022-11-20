@@ -47,6 +47,7 @@ namespace Clard_Monitoramento
             this.gerarProdutos = new Guna.UI2.WinForms.Guna2Button();
             this.tabelaProd = new Guna.UI2.WinForms.Guna2DataGridView();
             this.paginaCadastro = new System.Windows.Forms.TabPage();
+            this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.comboCategoria = new System.Windows.Forms.ComboBox();
             this.txtBoxQuant = new Guna.UI2.WinForms.Guna2TextBox();
             this.txtBoxValor = new Guna.UI2.WinForms.Guna2TextBox();
@@ -62,6 +63,7 @@ namespace Clard_Monitoramento
             this.btnAddImg = new Guna.UI2.WinForms.Guna2TileButton();
             this.pictureBox = new Guna.UI2.WinForms.Guna2PictureBox();
             this.paginaAlterar = new System.Windows.Forms.TabPage();
+            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.comboCategoriaAlt = new System.Windows.Forms.ComboBox();
             this.comboBoxAlt = new System.Windows.Forms.ComboBox();
             this.txtQuantAlt = new Guna.UI2.WinForms.Guna2TextBox();
@@ -76,8 +78,6 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel11 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.title = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.guna2HtmlLabel1 = new Guna.UI2.WinForms.Guna2HtmlLabel();
-            this.guna2HtmlLabel2 = new Guna.UI2.WinForms.Guna2HtmlLabel();
             this.tabControl.SuspendLayout();
             this.paginaVendas.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tabelaVenda)).BeginInit();
@@ -381,6 +381,18 @@ namespace Clard_Monitoramento
             this.paginaCadastro.TabIndex = 5;
             this.paginaCadastro.Text = "CADASTRAR PRODUTO";
             // 
+            // guna2HtmlLabel2
+            // 
+            this.guna2HtmlLabel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel2.IsSelectionEnabled = false;
+            this.guna2HtmlLabel2.Location = new System.Drawing.Point(492, 428);
+            this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
+            this.guna2HtmlLabel2.Size = new System.Drawing.Size(89, 25);
+            this.guna2HtmlLabel2.TabIndex = 37;
+            this.guna2HtmlLabel2.Text = "Categoria";
+            // 
             // comboCategoria
             // 
             this.comboCategoria.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -522,6 +534,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2HtmlLabel8.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel8.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel8.IsSelectionEnabled = false;
             this.guna2HtmlLabel8.Location = new System.Drawing.Point(479, 365);
             this.guna2HtmlLabel8.Name = "guna2HtmlLabel8";
             this.guna2HtmlLabel8.Size = new System.Drawing.Size(531, 25);
@@ -569,6 +582,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel6.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2HtmlLabel6.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel6.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel6.IsSelectionEnabled = false;
             this.guna2HtmlLabel6.Location = new System.Drawing.Point(479, 131);
             this.guna2HtmlLabel6.Name = "guna2HtmlLabel6";
             this.guna2HtmlLabel6.Size = new System.Drawing.Size(531, 25);
@@ -579,7 +593,9 @@ namespace Clard_Monitoramento
             // 
             this.guna2HtmlLabel4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2HtmlLabel4.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel4.Enabled = false;
             this.guna2HtmlLabel4.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel4.IsSelectionEnabled = false;
             this.guna2HtmlLabel4.Location = new System.Drawing.Point(479, 54);
             this.guna2HtmlLabel4.Name = "guna2HtmlLabel4";
             this.guna2HtmlLabel4.Size = new System.Drawing.Size(531, 25);
@@ -666,6 +682,18 @@ namespace Clard_Monitoramento
             this.paginaAlterar.Size = new System.Drawing.Size(1076, 592);
             this.paginaAlterar.TabIndex = 6;
             this.paginaAlterar.Text = "ALTERAR PRODUTO";
+            // 
+            // guna2HtmlLabel1
+            // 
+            this.guna2HtmlLabel1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
+            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel1.IsSelectionEnabled = false;
+            this.guna2HtmlLabel1.Location = new System.Drawing.Point(300, 437);
+            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
+            this.guna2HtmlLabel1.Size = new System.Drawing.Size(89, 25);
+            this.guna2HtmlLabel1.TabIndex = 36;
+            this.guna2HtmlLabel1.Text = "Categoria";
             // 
             // comboCategoriaAlt
             // 
@@ -820,6 +848,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel7.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.guna2HtmlLabel7.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel7.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel7.IsSelectionEnabled = false;
             this.guna2HtmlLabel7.Location = new System.Drawing.Point(287, 392);
             this.guna2HtmlLabel7.Name = "guna2HtmlLabel7";
             this.guna2HtmlLabel7.Size = new System.Drawing.Size(531, 25);
@@ -867,6 +896,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel10.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.guna2HtmlLabel10.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel10.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel10.IsSelectionEnabled = false;
             this.guna2HtmlLabel10.Location = new System.Drawing.Point(287, 163);
             this.guna2HtmlLabel10.Name = "guna2HtmlLabel10";
             this.guna2HtmlLabel10.Size = new System.Drawing.Size(531, 25);
@@ -878,6 +908,7 @@ namespace Clard_Monitoramento
             this.guna2HtmlLabel11.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.guna2HtmlLabel11.BackColor = System.Drawing.Color.Transparent;
             this.guna2HtmlLabel11.Font = new System.Drawing.Font("Arial", 15F);
+            this.guna2HtmlLabel11.IsSelectionEnabled = false;
             this.guna2HtmlLabel11.Location = new System.Drawing.Point(287, 97);
             this.guna2HtmlLabel11.Name = "guna2HtmlLabel11";
             this.guna2HtmlLabel11.Size = new System.Drawing.Size(531, 25);
@@ -907,30 +938,6 @@ namespace Clard_Monitoramento
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
-            // 
-            // guna2HtmlLabel1
-            // 
-            this.guna2HtmlLabel1.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2HtmlLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel1.Font = new System.Drawing.Font("Arial", 15F);
-            this.guna2HtmlLabel1.IsSelectionEnabled = false;
-            this.guna2HtmlLabel1.Location = new System.Drawing.Point(300, 437);
-            this.guna2HtmlLabel1.Name = "guna2HtmlLabel1";
-            this.guna2HtmlLabel1.Size = new System.Drawing.Size(89, 25);
-            this.guna2HtmlLabel1.TabIndex = 36;
-            this.guna2HtmlLabel1.Text = "Categoria";
-            // 
-            // guna2HtmlLabel2
-            // 
-            this.guna2HtmlLabel2.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.guna2HtmlLabel2.BackColor = System.Drawing.Color.Transparent;
-            this.guna2HtmlLabel2.Font = new System.Drawing.Font("Arial", 15F);
-            this.guna2HtmlLabel2.IsSelectionEnabled = false;
-            this.guna2HtmlLabel2.Location = new System.Drawing.Point(492, 428);
-            this.guna2HtmlLabel2.Name = "guna2HtmlLabel2";
-            this.guna2HtmlLabel2.Size = new System.Drawing.Size(89, 25);
-            this.guna2HtmlLabel2.TabIndex = 37;
-            this.guna2HtmlLabel2.Text = "Categoria";
             // 
             // Form1
             // 
